@@ -1,0 +1,18 @@
+multi_agent_ai/
+│
+├── agents/
+│   ├── classifier_agent.py
+│   ├── email_agent.py
+│   └── json_agent.py
+│
+├── shared_memory.py
+├── main.py
+├── app.py
+├── templates/
+│   └── index.html
+├── sample_invoice.json
+├── sample_email.eml
+├── requirements.txt
+└── README.md
+
+
